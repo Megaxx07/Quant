@@ -1,2 +1,4 @@
 # Quant
-Till now, all tasks are learned from youtube QuantPy and practiced by myself, also I added some notes to help me understand easier.
+Study from youtuber QuantPy.
+Practiced by myself.
+Added some notes to help me understand better.
